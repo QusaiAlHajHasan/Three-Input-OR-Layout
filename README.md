@@ -1,2 +1,2 @@
-# Two-Input-OR-Layout
-Two Input OR Layout using MicroWind Tool
+# Three-Input-OR-Layout
+Three Input OR Layout using MicroWind Tool
